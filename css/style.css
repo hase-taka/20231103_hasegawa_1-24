@@ -1,0 +1,53 @@
+.page-header {
+    color: navy;
+    display: flex;
+    justify-content: space-between;
+    padding: 25px;
+
+}
+
+.header__nav-item {
+    display: flex;
+    list-style: none;
+
+}
+
+.header_ttl {
+    font-size: 25px;
+
+}
+
+.header__nav-item li {
+    margin-left: 36px;
+    font-size: 17px;
+    font-weight: bold;
+
+}
+
+.page-main {
+    position: relative;
+
+}
+
+.page-main__img {
+    margin: 75px 0 0 auto;
+    display: block;
+    width: 50%;
+
+}
+
+.page-main__ttl {
+    font-size: 70px;
+    position: absolute;
+    top: 65%;
+
+}
+
+.page-main__box {
+    background-color: navy;
+    height: 200px;
+    width: 75%;
+    position: absolute;
+    top: 80%;
+    z-index: -10;
+}
