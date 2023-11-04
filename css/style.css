@@ -12,12 +12,12 @@
 
 }
 
-a {
+.header__nav-item a {
     text-decoration: none;
 
 }
 
-h2 {
+.header__ttl {
     font-size: 27px;
     
 }
