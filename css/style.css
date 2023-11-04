@@ -47,10 +47,21 @@
     top: 65%;
 
 }
-@media screen and (max-width: 1000px){
+
+@media screen and (max-width: 1350px){
+    .page-main__ttl {
+        font-size: 60px;
+
+    }
+
+}
+
+@media screen and (max-width: 1150px) {
     .page-main__ttl {
         font-size: 51px;
+
     }
+
 }
 
 .page-main__box {
