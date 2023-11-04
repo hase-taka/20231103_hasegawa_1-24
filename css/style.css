@@ -12,9 +12,14 @@
 
 }
 
-.header_ttl {
-    font-size: 25px;
+a {
+    text-decoration: none;
 
+}
+
+h2 {
+    font-size: 27px;
+    
 }
 
 .header__nav-item li {
