@@ -47,6 +47,11 @@
     top: 65%;
 
 }
+@media screen and (max-width: 1000px){
+    .page-main__ttl {
+        font-size: 51px;
+    }
+}
 
 .page-main__box {
     background-color: navy;
